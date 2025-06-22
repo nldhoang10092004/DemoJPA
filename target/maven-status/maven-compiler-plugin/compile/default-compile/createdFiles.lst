@@ -1,0 +1,8 @@
+dao\BookDao.class
+util\HibernateUtil.class
+controller\AddBookServlet.class
+util\JPAUtil.class
+entity\Book.class
+controller\ListBooksServlet.class
+controller\DeleteBookServlet.class
+controller\UpdateBookServlet.class
