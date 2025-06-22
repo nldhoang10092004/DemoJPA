@@ -3,7 +3,7 @@
              version="3.0">
   <persistence-unit name="demoPU" transaction-type="RESOURCE_LOCAL">
     <provider>org.hibernate.jpa.HibernatePersistenceProvider</provider>
-    <class>com.example.entity.Book</class>
+    <class>entity.Book</class>
     <properties>
       <!-- JDBC cho SQL Server -->
       <property name="jakarta.persistence.jdbc.driver"
